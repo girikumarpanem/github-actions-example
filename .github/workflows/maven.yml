@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: windows-latest
+    runs-on: windows-10.0.20348.1906
 
     steps:
     - uses: actions/checkout@v3
